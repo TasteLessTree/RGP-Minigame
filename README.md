@@ -7,6 +7,7 @@ What to do if you download the "game":
 1. Permisions: Make sure you are in the right directory on your computer and use: ``chmod +x script.sh``
 
 (If you did not download the .exe)
+
 2. Create the .exe: ``g++ RPG.cpp -o rpg``
 
 3. Play: ``./rpg``
