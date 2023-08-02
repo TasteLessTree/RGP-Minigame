@@ -11,3 +11,5 @@ elif [[ "$OSTYPE" == "msys" ]]; then
 else
     echo "No se pudo limpiar la pantalla. Comando no soportado en este sistema."
 fi
+
+# IF YOU ARE USING TERMUX ON ANDROID, MODIFY THIS FILE TO: 'CLEAR'
